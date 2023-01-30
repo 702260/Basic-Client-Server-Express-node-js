@@ -1,0 +1,23 @@
+
+# Prerequisite 
+
+you should have node js and npm installed on your machine.
+
+1.for ubuntu(linux) you can install using following command:-
+
+  sudo apt-get install node.js
+
+  sudo apt-get install npm
+
+2. for windows and mac you can follow link below for node.js and npm installation:-
+
+  https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac 
+
+3. you can install express on linux with below command.
+
+   npm install express
+
+4. you can install express on windows and mac with below command.
+
+   npm install express
+
